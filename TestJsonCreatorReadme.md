@@ -1,6 +1,33 @@
 # Test JSON Creator
 
-This module will create a JSON file resembling the comment section of a post on instagram. Documentation for the JSON api in use can be found at:
+This module will create a JSON file resembling the comment section of a post on instagram.
+it should ultimately return a JSON string in the following format
+{
+    data:[
+            {
+              "timestamp": "2017-05-03T16:09:08+0000",
+              "text": "Awesome :)",
+              "id": "17873440459141021",
+              "username": "test_user",
+              "user": "test_user"
+            },
+            {
+              "timestamp": "2017-05-03T16:09:08+0000",
+              "text": "Awesome :)",
+              "id": "17873440459141021",
+              "username": "test_user",
+              "user": "test_user"
+            }.
+            {
+              "timestamp": "2017-05-03T16:09:08+0000",
+              "text": "Awesome :)",
+              "id": "17873440459141021",
+              "username": "test_user",
+              "user": "test_user"
+            }
+        ]
+}
+ Documentation for the JSON api in use can be found at:
 
 https://developers.facebook.com/docs/instagram-api/reference/comment
 
