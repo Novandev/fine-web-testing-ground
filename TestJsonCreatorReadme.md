@@ -23,7 +23,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Novan Adams** - *Data Scientist* - [doncurt](https://github.com/D)
+* **Novan Adams** - *Data Scientist* - [Novandev](https://github.com/Novandev)
 * **Stanly Bishop-Rosal** - *ML/ Science Lead* -
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
