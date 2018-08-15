@@ -2,6 +2,7 @@
 
 This module will create a JSON file resembling the comment section of a post on instagram.
 it should ultimately return a JSON string in the following format
+```
 {
     data:[
             {
@@ -27,6 +28,7 @@ it should ultimately return a JSON string in the following format
             }
         ]
 }
+```
  Documentation for the JSON api in use can be found at:
 
 https://developers.facebook.com/docs/instagram-api/reference/comment
