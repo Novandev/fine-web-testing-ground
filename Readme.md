@@ -1,4 +1,9 @@
-# Test JSON Creator
+# Testing Ground
+## This testing ground accomplishes several things:
+### - Creation of mock data to simulate users that may be blocked or removed based on comments on posts
+### - Files from general testing and deployment of ML on Graph databases
+
+## Test JSON CREATOR
 
 This module will create a JSON file resembling the comment section of a post on instagram.
 it should ultimately return a JSON string in the following format
@@ -30,6 +35,8 @@ it should ultimately return a JSON string in the following format
  Documentation for the JSON api in use can be found at:
 
 https://developers.facebook.com/docs/instagram-api/reference/comment
+
+
 
 
 
